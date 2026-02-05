@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Carlo Vanoni_square.png"
+  avatar           : "Carlo Vanoni_square.jpg"
   name             : "Carlo Vanoni"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral researcher at the Department of Physics of Princeton University"
