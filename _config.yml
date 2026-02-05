@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Carlo Vanoni"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Postdoctoral researcher at the Department of Physics of Princeton University"
+  location         : "Princeton, NJ - USA"
+  employer         : "Princeton University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "cvanoni@princeton.edu" 
 
   # Academic websites
   academia         : # URL
