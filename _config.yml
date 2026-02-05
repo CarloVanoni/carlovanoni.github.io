@@ -91,11 +91,6 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
-scholar:
-  source: ./files
-  bibliography: bibtex1.bib
-  style: apa
-
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
