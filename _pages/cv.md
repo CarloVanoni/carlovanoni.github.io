@@ -49,7 +49,7 @@ Extra activities
 Conference Organization
 ======
 * October 2022: Local Organizer of the Conference The Many Facets of Statistical Field Theory
-* [Conference website](https://sites.google.com/view/the-many-facets-of-sft) and [talks recordings](https://www.youtube.com/@themanyfacetsofsft8801)
+  * [Conference website](https://sites.google.com/view/the-many-facets-of-sft) and [talks recordings](https://www.youtube.com/@themanyfacetsofsft8801)
 
 Teaching
 ======
