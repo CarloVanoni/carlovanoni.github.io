@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D <i>cum laude<\i> in Statistical Physics, SISSA - International School for Advanced Studies (Trieste, IT), 2024
-* M.S. <i>cum laude<\i> in Physics, University of Milan, 2020
-* B.S. <i>cum laude<\i> in Physics, University of Milan, 2018
+* Ph.D <i>cum laude</i> in Statistical Physics, SISSA - International School for Advanced Studies (Trieste, IT), 2024
+* M.S. <i>cum laude</i> in Physics, University of Milan, 2020
+* B.S. <i>cum laude</i> in Physics, University of Milan, 2018
 
 Work experience
 ======
