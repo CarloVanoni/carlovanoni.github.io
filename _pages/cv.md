@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 * Ph.D <i>cum laude</i> in Statistical Physics, SISSA - International School for Advanced Studies (Trieste, IT), 2024
-* M.S. <i>cum laude</i> in Physics, University of Milan, 2020
-* B.S. <i>cum laude</i> in Physics, University of Milan, 2018
+* M.S. <i>cum laude</i> in Physics, University of Milan (Milan, IT), 2020
+* B.S. <i>cum laude</i> in Physics, University of Milan (Milan, IT), 2018
 
 Work experience
 ======
 * Since Fall 2024: Postdoctoral Research Associate
-  * Princeton University
+  * Princeton University (Princeton, NJ, USA)
   * Advisors: Paul J. Steinhardt and Salvatore Torquato
 
 Publications
