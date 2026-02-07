@@ -15,7 +15,7 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Seminar for the Young Seminar Series of the Italian Society for Statistical Physics<br />; Online",
+    "Seminar for the Young Seminar Series of the Italian Society for Statistical Physics<br />Remote; Online",
     43.5904719,
     3.8595132
   ]
