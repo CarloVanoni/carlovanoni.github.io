@@ -15,7 +15,7 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Effective delocalization in the one-dimensional Anderson model with stealthy (hyperuniform) disorder<br />Seminar for the Young Seminar Series of the Italian Society for Statistical Physics; Online",
+    "Seminar for the Young Seminar Series of the Italian Society for Statistical Physics<br />; Online",
     43.5904719,
     3.8595132
   ]
