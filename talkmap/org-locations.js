@@ -5,9 +5,9 @@ var addressPoints = [
     -0.1277653
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Seminar for the MURI collaboration on Hyperuniformity<br />Remote; Online",
+    43.5904719,
+    3.8595132
   ],
   [
     "Seminar for the Young Seminar Series of the Italian Society for Statistical Physics<br />Remote; Online",
