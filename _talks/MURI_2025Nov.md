@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/MURI_2025Nov
 venue: "Remote"
-date: 2025-11-121
+date: 2025-11-21
 location: "Online"
 ---
 Title: Effective delocalization in the one-dimensional Anderson model with stealthy disorder
