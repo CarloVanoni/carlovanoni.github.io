@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Talk at the Condensed Matter Theory Group Meeting<br />Princeton University; Princeton, NJ, USA",
+    40.3496953,
+    -74.6597376
+  ],
+  [
     "Seminar for the MURI collaboration on Hyperuniformity<br />Remote; Online",
     43.5904719,
     3.8595132
