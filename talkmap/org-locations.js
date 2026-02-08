@@ -15,6 +15,11 @@ var addressPoints = [
     -117.911732
   ],
   [
+    "Seminar for the Leeds-Loughborough-Nottingham Non-Equilibrium Seminars Series<br />Remote; Online",
+    43.5904719,
+    3.8595132
+  ],
+  [
     "Seminar for the Young Seminar Series of the Italian Society for Statistical Physics<br />Remote; Online",
     43.5904719,
     3.8595132
