@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Seminar at the Condensed Matter Division<br />Max Planck Institute for the Physics of Complex Systems; Dresden, DE",
+    51.0493286,
+    13.7381437
+  ],
+  [
     "Talk at the Condensed Matter Theory Group Meeting<br />Princeton University; Princeton, NJ, USA",
     40.3496953,
     -74.6597376
