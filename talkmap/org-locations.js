@@ -15,6 +15,11 @@ var addressPoints = [
     3.8595132
   ],
   [
+    "Seminar at the Condensed Matter Theory Group<br />Boston University; Boston, USA",
+    42.3588336,
+    -71.0578303
+  ],
+  [
     "Contributed talk at the APS Global Physics Summit<br />APS Global Physics Summit; Anaheim, CA, USA",
     33.8347516,
     -117.911732
