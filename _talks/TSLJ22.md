@@ -1,5 +1,5 @@
 ---
-title: "Speaker at the 8th Trieste–Ljubljana-Zagreb meeting"
+title: "Talk at the 8th Trieste–Ljubljana-Zagreb meeting"
 collection: talks
 type: "Talk"
 permalink: /talks/TSLJ22
