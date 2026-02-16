@@ -63,5 +63,10 @@ var addressPoints = [
     "Seminar at the Department of Mathematics<br />University of Bologna; Bologna, Italy",
     44.4938203,
     11.3426327
+  ],
+  [
+    "Talk at the 8th Trieste\u2013Ljubljana-Zagreb meeting<br />ICTP; Trieste, Italy",
+    45.6496485,
+    13.7772781
   ]
 ];
