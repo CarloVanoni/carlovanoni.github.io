@@ -10,14 +10,14 @@ var addressPoints = [
     3.8595132
   ],
   [
-    "Talk at the Condensed Matter Theory Group Meeting<br />Princeton University; Princeton, NJ, USA",
-    40.3496953,
-    -74.6597376
-  ],
-  [
     "Seminar at the Condensed Matter Theory Group<br />Boston University; Boston, USA",
     42.3588336,
     -71.0578303
+  ],
+  [
+    "Talk at the Condensed Matter Theory Group Meeting<br />Princeton University; Princeton, NJ, USA",
+    40.3496953,
+    -74.6597376
   ],
   [
     "Short talk at the 129th Statistical Mechanics Conference<br />Rutgers University; New Brunswick, NJ, USA",
