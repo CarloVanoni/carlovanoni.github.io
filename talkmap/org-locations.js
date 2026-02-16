@@ -25,6 +25,11 @@ var addressPoints = [
     -74.4439254
   ],
   [
+    "Contributed talk at the Non-Equilibrium Quantum Workshop<br />IJS Institute; Krvavec, Slovenia",
+    46.2996823,
+    14.5367454
+  ],
+  [
     "Seminar for the Young Seminar Series of the Italian Society for Statistical Physics<br />Remote; Online",
     43.5904719,
     3.8595132
