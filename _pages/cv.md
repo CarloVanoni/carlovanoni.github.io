@@ -50,6 +50,23 @@ Conference Organization
 ======
 * October 2022: Local Organizer of the Conference The Many Facets of Statistical Field Theory
   * [Conference website](https://sites.google.com/view/the-many-facets-of-sft) and [talks recordings](https://www.youtube.com/@themanyfacetsofsft8801)
+ 
+Schools and Visiting periods
+======
+* Bootcamp, (2 days) Parallel Programming and GPU, Princeton University - Princeton, USA - Oct 2024
+* Visiting, (1 week) Condensed Matter Division (prof. Marin Bukov), Max Planck Institute for the Physics of Complex Systems - Dresden, Germany - Aug 2024
+* Program: New Directions in far from Equilibrium Integrability and beyond, Simons Centre for Geometry and Physics, Stony Brook, New York - May 2024
+* Visiting, (1 week) Condensed Matter Theory Group (prof. Anushya Chandran), Boston University, Boston, USA - Apr 2024
+* Boulder Summer School: Non-Equilibrium Quantum Dynamics, University of Colorado, Boulder, USA - Jul 2023
+* Visiting, (1 week) Physics Department (prof. David A. Huse and Sarang Gopalakrishnan), Princeton University, Princeton, New Jersey, USA - Jun 2023
+* Visiting, (2 months) Condensed Matter Theory Group (prof. Anushya Chandran), Boston University, Boston, USA - Apr-Jun 2023
+* The Beg Rohu Summer School - Non Equilibrium Dynamics, Saint-Pierre Quiberon, France - Jun 2022
+* GGI Winter School in Statistical Field Theory, GGI - Florence, Online - Feb 2022
+* GGI Winter School in Statistical Field Theory, GGI - Florence, Online - Feb 2021
+* Disordered Serendipity: a Glassy Path to Discover. A workshop in honour of Giorgio Parisi’s 70th birthday, Univeristy of Rome - La Sapienza, Roma, Italy - Sep 2018
+* Operational Issues in Radioactive Waste Management and Nuclear Decommissioning EUROPEAN COMMISSION, Joint Research Centre, Ispra, Italy - Sep 2014
+* Ad un passo dalle IPhO 2014 (preparation school for the International Physics Olympiad), ICTP, Trieste, Italy - May 2014
+* Quantum Mechanics and Measure of Planck’s constant, INFN Laboratories, Frascati, Italy - Jun 2014
 
 Teaching
 ======
