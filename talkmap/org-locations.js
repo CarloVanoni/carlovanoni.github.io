@@ -43,5 +43,25 @@ var addressPoints = [
     "Seminar for the Leeds-Loughborough-Nottingham Non-Equilibrium Seminars Series<br />Remote; Online",
     43.5904719,
     3.8595132
+  ],
+  [
+    "Short talk at the 128th Statistical Mechanics Conference<br />Rutgers University; New Brunswick, USA",
+    40.4951365,
+    -74.4439254
+  ],
+  [
+    "Seminar at the Condensed Matter Division<br />Max Planck Institute for the Physics of Complex Systems; Dresden, DE",
+    51.0493286,
+    13.7381437
+  ],
+  [
+    "Talk at I Conference of the Italian Society of Statistical Physics - SIFS<br />Remote; Online",
+    43.5904719,
+    3.8595132
+  ],
+  [
+    "Seminar at the Department of Mathematics<br />University of Bologna; Bologna, Italy",
+    44.4938203,
+    11.3426327
   ]
 ];
