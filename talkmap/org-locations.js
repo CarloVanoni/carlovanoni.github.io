@@ -25,6 +25,11 @@ var addressPoints = [
     -74.4439254
   ],
   [
+    "Short talk at the 124th Conference on Statistical Mechanics<br />Rutgers University; New Brunswick, USA",
+    40.4951365,
+    -74.4439254
+  ],
+  [
     "Contributed talk at the Non-Equilibrium Quantum Workshop<br />IJS Institute; Krvavec, Slovenia",
     46.2996823,
     14.5367454
