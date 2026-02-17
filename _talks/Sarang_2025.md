@@ -7,4 +7,4 @@ venue: "Princeton University"
 date: 2025-03-05
 location: "Princeton, NJ, USA"
 ---
-Title: Renormalization Group $￼\beta$-function for Anderson and Many-Body Localization
+Title: Renormalization Group β-function for Anderson and Many-Body Localization
