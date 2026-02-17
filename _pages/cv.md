@@ -33,6 +33,26 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
+Collaborators
+======
+* Boris Altshuler (Columbia University)
+* Federico Balducci (MPIPKS)
+* Pasquale Calabrese (SISSA)
+* Luca Capizzi (LPTMS)
+* Sergio Caracciolo (University of Milan - retired)
+* Anushya Chandran (Boston University)
+* Andrea Gambassi (SISSA)
+* Jaeuk Kim (KAIST)
+* Vladimir Kravtsov (ICTP)
+* Alessio Lerose (KU Leuven)
+* David M. Long (Stanford University)
+* Antonello Scardicchio (ICTP)
+* Piotr Sierant (BSC)
+* Paul J. Steinhardt (Princeton University)
+* Salvatore Torquato (Princeton University)
+* Lev Vidmar (Josef Stefan Institute)
+* Vittorio Vitale (Pasqal)
+
 Awards
 ======
 * (2023) Italian Physical Society "Augusto Righi" Prize for Scientific Achievements
