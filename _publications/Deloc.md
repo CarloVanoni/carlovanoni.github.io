@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-09-01-effective-delocalization-1d-anderson-stealthy-disorder
 excerpt: 'We show that stealthy disorder can induce effective delocalization in the one-dimensional Anderson model and analyze the resulting transport and spectral properties.'
 date: 2026-04-14
-venue: 'Phys. Rev. Lett. 136, 150404'
+venue: 'Physical Review Letters'
 paperurl: 'https://journals.aps.org/prl/abstract/10.1103/nl7n-bqn4'
 citation: 'Vanoni, C., Karcher, J., Rechtsman, M. C., Altshuler, B. L., Steinhardt, P. J., and Torquato, S. (2026). &quot;Effective delocalization in the one-dimensional Anderson model with stealthy disorder.&quot; <i>Phys. Rev. Lett. 136, 150404.'
 ---
