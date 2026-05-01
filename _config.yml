@@ -11,6 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Carlo Vanoni"
 title_separator          : "-"
+logo                     : "/images/Logo.pdf"
 name                     : &name "Carlo Vanoni"
 description              : &description "Postdoctoral researcher at the Department of Physics of Princeton University"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://carlovanoni.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
