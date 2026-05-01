@@ -8,7 +8,7 @@ excerpt: |
   
   This article was featured on the homepages of Princeton University, the Department of Physics, and the Department of Chemistry. Read the Research Highlight <a href="https://chemistry.princeton.edu/news/torquato-collab-opens-door-to-design-of-disordered-materials-for-delocalization-of-waves/">here</a>.
 date: 2026-04-14
-venue: 'Physical Review Letters'
+venue: 'Physical Review Letters (Editors' Suggestion)'
 paperurl: 'https://journals.aps.org/prl/abstract/10.1103/nl7n-bqn4'
 citation: 'Vanoni, C., Karcher, J., Rechtsman, M. C., Altshuler, B. L., Steinhardt, P. J., and Torquato, S. (2026). &quot;Effective delocalization in the one-dimensional Anderson model with stealthy disorder.&quot; <i>Phys. Rev. Lett. 136, 150404.'
 ---
