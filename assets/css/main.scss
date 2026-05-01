@@ -41,18 +41,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-
-.masthead .site-logo-title {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
-}
-
-.masthead .site-logo {
-  height: 1.4rem !important;
-  width: auto !important;
-  max-height: 1.4rem !important;
-  max-width: none !important;
-  object-fit: contain;
-  vertical-align: middle;
-}
