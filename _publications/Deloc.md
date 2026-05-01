@@ -3,7 +3,10 @@ title: "Effective delocalization in the one-dimensional Anderson model with stea
 collection: publications
 category: manuscripts
 permalink: /publication/2025-09-01-effective-delocalization-1d-anderson-stealthy-disorder
-excerpt: 'We show that stealthy disorder can induce effective delocalization in the one-dimensional Anderson model and analyze the resulting transport and spectral properties.'
+excerpt: |
+  We show that stealthy disorder can induce effective delocalization in the one-dimensional Anderson model and analyze the resulting transport and spectral properties.
+  
+  This article was featured on the homepages of Princeton University, the Department of Physics, and the Department of Chemistry. Read the Research Highlight <a href="https://chemistry.princeton.edu/news/torquato-collab-opens-door-to-design-of-disordered-materials-for-delocalization-of-waves/">here</a>.
 date: 2026-04-14
 venue: 'Physical Review Letters'
 paperurl: 'https://journals.aps.org/prl/abstract/10.1103/nl7n-bqn4'
