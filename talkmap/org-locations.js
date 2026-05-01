@@ -56,8 +56,8 @@ var addressPoints = [
   ],
   [
     "Short talk at the 129th Statistical Mechanics Conference<br />Rutgers University; New Brunswick, NJ, USA",
-    40.4951365,
-    -74.4439254
+    40.4936119,
+    -74.4436416
   ],
   [
     "Talk at the Condensed Matter Theory Group Meeting<br />Princeton University; Princeton, NJ, USA",
