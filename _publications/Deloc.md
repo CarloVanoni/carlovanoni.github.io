@@ -10,7 +10,7 @@ excerpt: |
 date: 2026-04-14
 venue: 'Physical Review Letters (Editors Suggestion)'
 paperurl: 'https://journals.aps.org/prl/abstract/10.1103/nl7n-bqn4'
-citation: 'Vanoni, C., Karcher, J., Rechtsman, M. C., Altshuler, B. L., Steinhardt, P. J., and Torquato, S. (2026). &quot;Effective delocalization in the one-dimensional Anderson model with stealthy disorder.&quot; <i>Phys. Rev. Lett. 136, 150404.'
+citation: 'Vanoni, C., Karcher, J., Rechtsman, M. C., Altshuler, B. L., Steinhardt, P. J., and Torquato, S. (2026). &quot;Effective delocalization in the one-dimensional Anderson model with stealthy disorder.&quot; <i>Phys. Rev. Lett.</i> 136, 150404.'
 ---
 
 We analyze the 1D Anderson model with stealthy disorder, defined by a power spectrum that vanishes over a continuous band of wavenumbers. Perturbative expansion of the self-energy and numerical results show that for small disorder $W$ and prescribed stealthiness $\chi$, the system is effectively delocalized, i.e., the localization length $\xi$ exceeds large system sizes. This unusual behavior follows from the systematic cancellation of leading terms so that $\xi$ scales as $W^{-2n}$ with large $n$. Since the underlying mechanism depends only on the stealthy disorder, our findings also apply to photonic and phononic waves.
