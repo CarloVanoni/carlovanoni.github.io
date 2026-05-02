@@ -100,46 +100,6 @@
     font-size: $type-size-6;
   }
 
-  .cv-entry {
-    display: flex;
-    align-items: flex-start;
-    gap: 0.85rem;
-    margin: 0 0 1rem;
-
-    ul {
-      margin: 0.25rem 0 0;
-    }
-  }
-
-  .cv-entry__logo {
-    flex: 0 0 52px;
-    width: 52px;
-    height: 52px;
-    padding: 0.2rem;
-    background: #fff;
-    border: 1px solid var(--global-border-color);
-    border-radius: 4px;
-    box-sizing: border-box;
-    object-fit: contain;
-  }
-
-  .cv-entry__body {
-    flex: 1 1 auto;
-    min-width: 0;
-  }
-
-  @include breakpoint(max-width $small) {
-    .cv-entry {
-      gap: 0.75rem;
-    }
-
-    .cv-entry__logo {
-      flex-basis: 44px;
-      width: 44px;
-      height: 44px;
-    }
-  }
-
   /* blockquote citations */
   blockquote + .small {
     margin-top: -1.5em;
