@@ -16,8 +16,8 @@ Education
   <div class="cv-entry__body">
     <strong>Ph.D <i>cum laude</i> in Statistical Physics</strong>, SISSA - International School for Advanced Studies (Trieste, IT), 2024
     <ul>
-      <li>Advisor:</li>
-      <li>Thesis:</li>
+      <li>Advisors: Andrea Gambassi and Antonello Scardicchio</li>
+      <li>Thesis: Non-equilibrium dynamics and localization in statistical quantum systems</li>
     </ul>
   </div>
 </div>
@@ -27,8 +27,8 @@ Education
   <div class="cv-entry__body">
     <strong>M.S. <i>cum laude</i> in Physics</strong>, University of Milan (Milan, IT), 2020
     <ul>
-      <li>Advisor:</li>
-      <li>Thesis:</li>
+      <li>Advisors: Sergio Caracciolo and Antonello Scardicchio</li>
+      <li>Thesis: Localization and Ergodicity in the Discrete non-linear Schroedinger Equation</li>
     </ul>
   </div>
 </div>
@@ -38,8 +38,8 @@ Education
   <div class="cv-entry__body">
     <strong>B.S. <i>cum laude</i> in Physics</strong>, University of Milan (Milan, IT), 2018
     <ul>
-      <li>Advisor:</li>
-      <li>Thesis:</li>
+      <li>Advisor: Sergio Caracciolo</li>
+      <li>Thesis: Monopartite Euclidean Travelling Salesman Problem in One Dimension</li>
     </ul>
   </div>
 </div>
