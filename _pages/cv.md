@@ -23,7 +23,7 @@ Education
 </div>
 
 <div class="cv-entry">
-  <img class="cv-entry__logo cv-entry__logo--wide" src="{{ base_path }}/images/unimi-logo.png" alt="University of Milan logo">
+  <img class="cv-entry__logo" src="{{ base_path }}/images/unimi-logo.png" alt="University of Milan logo">
   <div class="cv-entry__body">
     <strong>M.S. <i>cum laude</i> in Physics</strong>, University of Milan (Milan, IT), 2020
     <ul>
@@ -34,7 +34,7 @@ Education
 </div>
 
 <div class="cv-entry">
-  <img class="cv-entry__logo cv-entry__logo--wide" src="{{ base_path }}/images/unimi-logo.png" alt="University of Milan logo">
+  <img class="cv-entry__logo" src="{{ base_path }}/images/unimi-logo.png" alt="University of Milan logo">
   <div class="cv-entry__body">
     <strong>B.S. <i>cum laude</i> in Physics</strong>, University of Milan (Milan, IT), 2018
     <ul>
@@ -47,7 +47,7 @@ Education
 Work experience
 ======
 <div class="cv-entry">
-  <img class="cv-entry__logo cv-entry__logo--wide" src="{{ base_path }}/images/princeton-logo.png" alt="Princeton University logo">
+  <img class="cv-entry__logo" src="{{ base_path }}/images/princeton-logo.png" alt="Princeton University logo">
   <div class="cv-entry__body">
     <strong>Since Fall 2024: Postdoctoral Research Associate</strong>
     <ul>
