@@ -11,15 +11,51 @@ redirect_from:
 
 Education
 ======
-* Ph.D <i>cum laude</i> in Statistical Physics, SISSA - International School for Advanced Studies (Trieste, IT), 2024
-* M.S. <i>cum laude</i> in Physics, University of Milan (Milan, IT), 2020
-* B.S. <i>cum laude</i> in Physics, University of Milan (Milan, IT), 2018
+<div class="cv-entry">
+  <img class="cv-entry__logo" src="{{ base_path }}/images/sissa-logo.png" alt="SISSA logo">
+  <div class="cv-entry__body">
+    <strong>Ph.D <i>cum laude</i> in Statistical Physics</strong>, SISSA - International School for Advanced Studies (Trieste, IT), 2024
+    <ul>
+      <li>Advisor:</li>
+      <li>Thesis:</li>
+    </ul>
+  </div>
+</div>
+
+<div class="cv-entry">
+  <img class="cv-entry__logo cv-entry__logo--wide" src="{{ base_path }}/images/unimi-logo.png" alt="University of Milan logo">
+  <div class="cv-entry__body">
+    <strong>M.S. <i>cum laude</i> in Physics</strong>, University of Milan (Milan, IT), 2020
+    <ul>
+      <li>Advisor:</li>
+      <li>Thesis:</li>
+    </ul>
+  </div>
+</div>
+
+<div class="cv-entry">
+  <img class="cv-entry__logo cv-entry__logo--wide" src="{{ base_path }}/images/unimi-logo.png" alt="University of Milan logo">
+  <div class="cv-entry__body">
+    <strong>B.S. <i>cum laude</i> in Physics</strong>, University of Milan (Milan, IT), 2018
+    <ul>
+      <li>Advisor:</li>
+      <li>Thesis:</li>
+    </ul>
+  </div>
+</div>
 
 Work experience
 ======
-* Since Fall 2024: Postdoctoral Research Associate
-  * Princeton University (Princeton, NJ, USA)
-  * Advisors: Paul J. Steinhardt and Salvatore Torquato
+<div class="cv-entry">
+  <img class="cv-entry__logo cv-entry__logo--wide" src="{{ base_path }}/images/princeton-logo.png" alt="Princeton University logo">
+  <div class="cv-entry__body">
+    <strong>Since Fall 2024: Postdoctoral Research Associate</strong>
+    <ul>
+      <li>Princeton University (Princeton, NJ, USA)</li>
+      <li>Advisors: Paul J. Steinhardt and Salvatore Torquato</li>
+    </ul>
+  </div>
+</div>
 
 Publications
 ======
