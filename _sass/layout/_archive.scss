@@ -58,6 +58,26 @@
     padding-top: 0.1rem;
   }
 
+  .cv-collaborators-map {
+    display: block;
+    width: 100%;
+    max-width: 760px;
+    margin: 0 0 1rem;
+    border: 1px solid var(--global-border-color);
+    border-radius: 4px;
+  }
+
+  .cv-collaborators-list {
+    column-count: 2;
+    column-gap: 2rem;
+    margin-top: 0;
+
+    li {
+      break-inside: avoid;
+      margin-bottom: 0.25rem;
+    }
+  }
+
   @include breakpoint(max-width $small) {
     .cv-entry {
       gap: 0.75rem;
@@ -69,6 +89,10 @@
       height: 50px;
       max-width: 50px;
       max-height: 50px;
+    }
+
+    .cv-collaborators-list {
+      column-count: 1;
     }
   }
 }

@@ -93,28 +93,32 @@ Talks
 
 Collaborators
 ======
-* Boris Altshuler (Columbia University)
-* Claudio Arezzo (ICTP)
-* Federico Balducci (MPIPKS)
-* Pasquale Calabrese (SISSA)
-* Luca Capizzi (LPTMS)
-* Sergio Caracciolo (University of Milan - retired)
-* Anushya Chandran (Boston University)
-* Andrea Di Gioacchino (Phagos)
-* Andrea Gambassi (SISSA)
-* Jaeuk Kim (KAIST)
-* Vladimir Kravtsov (ICTP)
-* Anton Kutlin (ICTP)
-* Alessio Lerose (KU Leuven)
-* David M. Long (Stanford University)
-* Giuseppe Magnifico (University of Bari)
-* Enrico Malatesta (Bocconi University)
-* Antonello Scardicchio (ICTP)
-* Piotr Sierant (BSC)
-* Paul J. Steinhardt (Princeton University)
-* Salvatore Torquato (Princeton University)
-* Lev Vidmar (Josef Stefan Institute)
-* Vittorio Vitale (Pasqal)
+<img class="cv-collaborators-map" src="{{ base_path }}/images/collaborators-map.png" alt="Map showing collaborator locations">
+
+<ul class="cv-collaborators-list">
+  <li>Boris Altshuler (Columbia University)</li>
+  <li>Claudio Arezzo (ICTP)</li>
+  <li>Federico Balducci (MPIPKS)</li>
+  <li>Pasquale Calabrese (SISSA)</li>
+  <li>Luca Capizzi (LPTMS)</li>
+  <li>Sergio Caracciolo (University of Milan - retired)</li>
+  <li>Anushya Chandran (Boston University)</li>
+  <li>Andrea Di Gioacchino (Phagos)</li>
+  <li>Andrea Gambassi (SISSA)</li>
+  <li>Jaeuk Kim (KAIST)</li>
+  <li>Vladimir Kravtsov (ICTP)</li>
+  <li>Anton Kutlin (ICTP)</li>
+  <li>Alessio Lerose (KU Leuven)</li>
+  <li>David M. Long (Stanford University)</li>
+  <li>Giuseppe Magnifico (University of Bari)</li>
+  <li>Enrico Malatesta (Bocconi University)</li>
+  <li>Antonello Scardicchio (ICTP)</li>
+  <li>Piotr Sierant (BSC)</li>
+  <li>Paul J. Steinhardt (Princeton University)</li>
+  <li>Salvatore Torquato (Princeton University)</li>
+  <li>Lev Vidmar (Josef Stefan Institute)</li>
+  <li>Vittorio Vitale (Pasqal)</li>
+</ul>
 
 Awards
 ======
