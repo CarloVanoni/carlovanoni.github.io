@@ -25,7 +25,7 @@ Education
 <div class="cv-entry">
   <img class="cv-entry__logo" src="{{ base_path }}/images/boston-university-logo.png" alt="Boston University logo">
   <div class="cv-entry__body">
-    <strong>Visiting PhD student</strong>, Boston University (Boston, MA, USA), YEAR
+    <strong>Visiting PhD student</strong>, Boston University (Boston, MA, USA), 2023
     <ul>
       <li>Advisor: Anushya Chandran</li>
       <li>Period: April - June 2023</li>
@@ -36,7 +36,7 @@ Education
 <div class="cv-entry">
   <img class="cv-entry__logo" src="{{ base_path }}/images/ictp-logo.png" alt="ICTP logo">
   <div class="cv-entry__body">
-    <strong>Visiting PhD student</strong>, ICTP - International Centre for Theoretical Physics (Trieste, IT), YEAR
+    <strong>Visiting PhD student</strong>, ICTP - International Centre for Theoretical Physics (Trieste, IT), 2021-2024
     <ul>
       <li>Advisor: Antonello Scardicchio</li>
       <li>Period: Sept 2021 - August 2024</li>
