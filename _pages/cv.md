@@ -45,6 +45,28 @@ Education
 </div>
 
 <div class="cv-entry">
+  <img class="cv-entry__logo" src="{{ base_path }}/images/boston-university-logo.png" alt="Boston University logo">
+  <div class="cv-entry__body">
+    <strong>Visiting PhD student</strong>, Boston University (Boston, MA, USA), YEAR
+    <ul>
+      <li>Advisor:</li>
+      <li>Project:</li>
+    </ul>
+  </div>
+</div>
+
+<div class="cv-entry">
+  <img class="cv-entry__logo" src="{{ base_path }}/images/ictp-logo.png" alt="ICTP logo">
+  <div class="cv-entry__body">
+    <strong>Visiting PhD student</strong>, ICTP - International Centre for Theoretical Physics (Trieste, IT), YEAR
+    <ul>
+      <li>Advisor:</li>
+      <li>Project:</li>
+    </ul>
+  </div>
+</div>
+
+<div class="cv-entry">
   <img class="cv-entry__logo" src="{{ base_path }}/images/unimi-logo.png" alt="University of Milan logo">
   <div class="cv-entry__body">
     <strong>M.S. <i>cum laude</i> in Physics</strong>, University of Milan (Milan, IT), 2020
