@@ -18,3 +18,11 @@ I am interested in a variety of topics in quantum condensed matter and statistic
 - Quantum dynamics in many-body systems
 - Ergodicity breaking in random matrices
 
+News
+======
+Together with Sarang Gopalakrishnan, Paul J. Steinhardt, and Salvatore Torquato, I'm organizing the PCTS workshop
+
+"Hidden Order in Disorder: The Expanding Landscape of Hyperuniformity"
+
+that will be held Jadwin Hall 407 · Princeton University · Princeton, NJ on December 9-11 2026.
+For more info, visit the [PCTS event webpage](https://pcts.princeton.edu/events/2026/hidden-order-disorder-expanding-landscape-hyperuniformity)
