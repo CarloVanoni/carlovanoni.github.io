@@ -143,6 +143,8 @@ Conference Organization
  
 Schools and Visiting periods
 ======
+* Invited fellow, Program on Quantum Matter beyond Ergodicity and Thermalization, International Institute of Physics - Natal, RN, Brazil - Sept 2026
+* Summer School, Software Engineering, Princeton University - Princeton, USA - Jun 2026
 * Bootcamp, (2 days) Parallel Programming and GPU, Princeton University - Princeton, USA - Oct 2024
 * Visiting, (1 week) Condensed Matter Division (prof. Marin Bukov), Max Planck Institute for the Physics of Complex Systems - Dresden, Germany - Aug 2024
 * Program: New Directions in far from Equilibrium Integrability and beyond, Simons Centre for Geometry and Physics, Stony Brook, New York - May 2024
