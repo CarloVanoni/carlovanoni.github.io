@@ -30,7 +30,7 @@ that will be held Jadwin Hall 407 · Princeton University · Princeton, NJ on De
   data="{{ '/files/Flyer.pdf' | relative_url }}"
   type="application/pdf"
   width="100%"
-  style="aspect-ratio: 8.5 / 11; border: none;"
+  style="aspect-ratio: 210 / 297; border: none;"
   aria-label="PDF document">
   <p>
     Your browser cannot display PDFs.
