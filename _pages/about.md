@@ -29,7 +29,7 @@ that will be held Jadwin Hall 407 · Princeton University · Princeton, NJ on De
 <object
   data="{{ '/files/Flyer.pdf' | relative_url }}"
   type="application/pdf"
-  style="display: block; width: 100%; height: 80vh; min-height: 500px; max-height: 900px; border: none;"
+  style="display: block; width: 100%; height: 100vh; min-height: 500px; max-height: 1200px; border: none;"
   aria-label="Workshop flyer">
   <p>
     Your browser cannot display PDFs.
