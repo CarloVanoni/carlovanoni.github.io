@@ -9,6 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+
+Work experience
+======
+<div class="cv-entry">
+  <img class="cv-entry__logo" src="{{ base_path }}/images/princeton-logo.png" alt="Princeton University logo">
+  <div class="cv-entry__body">
+    <strong>Since Fall 2024: Postdoctoral Research Associate</strong>
+    <ul>
+      <li>Princeton University (Princeton, NJ, USA)</li>
+      <li>Advisors: Paul J. Steinhardt and Salvatore Torquato</li>
+    </ul>
+  </div>
+</div>
+
 Education
 ======
 <div class="cv-entry">
@@ -62,19 +76,6 @@ Education
     <ul>
       <li>Advisor: Sergio Caracciolo</li>
       <li>Thesis: Monopartite Euclidean Travelling Salesman Problem in One Dimension</li>
-    </ul>
-  </div>
-</div>
-
-Work experience
-======
-<div class="cv-entry">
-  <img class="cv-entry__logo" src="{{ base_path }}/images/princeton-logo.png" alt="Princeton University logo">
-  <div class="cv-entry__body">
-    <strong>Since Fall 2024: Postdoctoral Research Associate</strong>
-    <ul>
-      <li>Princeton University (Princeton, NJ, USA)</li>
-      <li>Advisors: Paul J. Steinhardt and Salvatore Torquato</li>
     </ul>
   </div>
 </div>
