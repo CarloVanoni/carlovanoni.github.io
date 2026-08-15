@@ -104,15 +104,20 @@ Collaborators
   <li>Luca Capizzi (LPTMS)</li>
   <li>Sergio Caracciolo (University of Milan - retired)</li>
   <li>Anushya Chandran (Boston University)</li>
+  <li>Natanael C. Costa (Universidade Federal do Rio de Janeiro)</li>
   <li>Andrea Di Gioacchino (Phagos)</li>
+  <li>Mauro S. Ferreira (Trinity College)</li>
   <li>Andrea Gambassi (SISSA)</li>
+  <li>Alan Guo (OpenAI)</li>
   <li>Jaeuk Kim (KAIST)</li>
   <li>Vladimir Kravtsov (ICTP)</li>
   <li>Anton Kutlin (ICTP)</li>
   <li>Alessio Lerose (KU Leuven)</li>
+  <li>Caio Lewenkopf (Universidade Federal do Rio de Janeiro)</li>
   <li>David M. Long (Stanford University)</li>
   <li>Giuseppe Magnifico (University of Bari)</li>
   <li>Enrico Malatesta (Bocconi University)</li>
+  <li>Felipe A. Pinheiro (Universidade Federal do Rio de Janeiro)</li>
   <li>Antonello Scardicchio (ICTP)</li>
   <li>Piotr Sierant (BSC)</li>
   <li>Paul J. Steinhardt (Princeton University)</li>
