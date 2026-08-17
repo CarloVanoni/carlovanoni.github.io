@@ -24,7 +24,7 @@ Together with Sarang Gopalakrishnan, Paul J. Steinhardt, and Salvatore Torquato,
 
 "Hidden Order in Disorder: The Expanding Landscape of Hyperuniformity"
 
-that will be held Jadwin Hall 407 · Princeton University · Princeton, NJ on December 9-11 2026.
+that will be held in Jadwin Hall 407 · Princeton University · Princeton, NJ on December 9-11 2026.
 
 <object
   data="{{ '/files/Flyer.pdf' | relative_url }}"
