@@ -99,10 +99,10 @@ Collaborators
 <ul class="cv-collaborators-list">
   <li>Boris Altshuler (Columbia University)</li>
   <li>Claudio Arezzo (ICTP)</li>
-  <li>Federico Balducci (MPIPKS)</li>
+  <li>Federico Balducci (CFT-PAN, Warsaw)</li>
   <li>Pasquale Calabrese (SISSA)</li>
   <li>Luca Capizzi (LPTMS)</li>
-  <li>Sergio Caracciolo (University of Milan - retired)</li>
+  <li>Sergio Caracciolo (INFN Milan)</li>
   <li>Anushya Chandran (Boston University)</li>
   <li>Natanael C. Costa (Universidade Federal do Rio de Janeiro)</li>
   <li>Andrea Di Gioacchino (Phagos)</li>
