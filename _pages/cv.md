@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV (PDF)]({{ '/files/CurriculumVitae_Vanoni.pdf' | relative_url }})
 
 Work experience
 ======
