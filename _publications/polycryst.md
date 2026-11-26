@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/Polycryst
 excerpt: We study the structural and physical properties of ultradense stealthy hyperuniform polycrystalline disk packings
 date: 2026-06-22
-venue: 'Physical Review Materials (Editors' Suggestion)'
+venue: 'Physical Review Materials (Editors Suggestion)'
 paperurl: 'https://journals.aps.org/prmaterials/abstract/10.1103/cnxy-sny4'
 citation: 'Vanoni, C., Steinhardt, P. J., Torquato, S. (2026). &quot;Two-dimensional stealthy hyperuniform polycrystalline disk packings.&quot; <i>Physical Review Materials</i> 10, 115602. arXiv:2606.23628'
 ---
